@@ -1,0 +1,17 @@
+import java.io.*;
+public class  Main{
+  public static void main(String args[]) {
+    int x=10;
+    int y=5;
+    int z=x+y;
+    int a=x-y;
+    int b=x*y;
+    int c=x/y;
+    int d=x%y;
+    System.out.println("Sum of x+y = " + z);
+    System.out.println("Result of x-y = " + a);
+    System.out.println("Product of x*y = " + b);
+    System.out.println("Division of x/y = " + c);
+    System.out.println("Module of x%y = " +d);
+  }
+}
