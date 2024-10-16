@@ -3,9 +3,9 @@ import java.io.*;
 {
 public static void main(String[] args) {
 System.out.println("\t Student Details");
-System.out.println("Name : Likhitha \t Reg No : 23K61A4718");
-System.out.println("Father Name : Vengala Reddy \t Aadhar No : 989878274576");
-System.out.println("Occupation : Tailor \t DOB : 28/04/2006");
-System.out.println("Parent Mobile No : 9988772266 \t No of subjects passed : 20");
+System.out.println("Name : Indupriya \t Reg No : 23K61A4720");
+System.out.println("Father Name : Ramesh \t Aadhar No : 902927345667");
+System.out.println("Occupation : Farmer \t DOB : 21/09/2005");
+System.out.println("Parent Mobile No : 9989747347 \t No of subjects passed : 20");
 }
 }
