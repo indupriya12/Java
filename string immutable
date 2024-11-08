@@ -6,7 +6,7 @@ public class StringImmutableDemo{
         s1.concat("Gedala");
         System.out.println("String s1 is "+s1);
         String s2="Indupriya";
-        String s3=s2.concat(" elluri");
+        String s3=s2.concat(" Gedala");
         System.out.println("String s3 is "+s3);
     }
 }
